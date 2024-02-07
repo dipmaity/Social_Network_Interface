@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1649926592 source:c:\users\hp\downloads\network\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Member.h"
+
+1650028011 c:\users\hp\downloads\network\member.h
+	<bits/stdc++.h>
+
+1650027990 source:c:\users\hp\downloads\network\member.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<ostream>
+	<string>
+	<cstdlib>
+	"Member.h"
+	<bits/stdc++.h>
+
+1649926592 source:c:\users\hp\desktop\mca 2nd sem\project(c++)\network\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Member.h"
+
+1652928869 c:\users\hp\desktop\mca 2nd sem\project(c++)\network\member.h
+	<bits/stdc++.h>
+
+1650027990 source:c:\users\hp\desktop\mca 2nd sem\project(c++)\network\member.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<ostream>
+	<string>
+	<cstdlib>
+	"Member.h"
+	<bits/stdc++.h>
+
+1653057797 source:c:\users\hitesh ahuja\desktop\network\network\member.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<ostream>
+	<string>
+	<cstdlib>
+	"Member.h"
+	<bits/stdc++.h>
+
+1653039695 c:\users\hitesh ahuja\desktop\network\network\member.h
+	<bits/stdc++.h>
+
+1653055412 source:c:\users\hitesh ahuja\desktop\network\network\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Member.h"
+
+1652969843 source:c:\users\hitesh ahuja\desktop\network\network\src\graph.cpp
+	"Graph.h"
+
+1652968321 c:\users\hitesh ahuja\desktop\network\network\include\graph.h
+
+1653010681 source:c:\users\hitesh ahuja\desktop\network\network\src\login.cpp
+	"Login.h"
+
+1653010681 c:\users\hitesh ahuja\desktop\network\network\include\login.h
+
